@@ -68,4 +68,7 @@ Concept development and design iterations.
 High-quality renderings and manufacturing-ready files.
 Support for material selection and manufacturing recommendations.
 
+Please see the attached imgage for the reference of the Initial concept that client wants after reverse engineering of the existing EFI device.
+![WhatsApp Image 2025-01-28 at 19 36 51_b81afb1e](https://github.com/user-attachments/assets/9f4583e0-d769-4afd-9164-a0a9469e76aa)
+
 ____________________________________________xxxxxxx _____________________________________________________________________________________
