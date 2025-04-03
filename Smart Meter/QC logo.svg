@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 226.77 170.08">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        font-family: SegoeUIVariable, 'Segoe UI Variable';
+        font-size: 12px;
+        font-variation-settings: 'wght' 400, 'opsz' 10;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 0 0 0 0 .57 0 .01 .55 .01 0;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .71px;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(23.77 24.97)"><tspan x="0" y="0">QC Checked Date:</tspan><tspan x="0" y="14.4">Date of MFG:</tspan><tspan class="cls-1" x="0" y="28.8">W</tspan><tspan x="10.74" y="28.8">eight:</tspan><tspan x="0" y="43.2">Size LxWxH:</tspan><tspan x="0" y="57.6">Shipped By:</tspan><tspan x="0" y="86.4">Components Checked:</tspan><tspan x="0" y="100.8">Screen:</tspan><tspan x="0" y="115.2">Antena:</tspan></text>
+  <g>
+    <line class="cls-5" x1="125.91" y1="24.69" x2="126.2" y2="24.69"/>
+    <line class="cls-4" x1="126.77" y1="24.69" x2="193.8" y2="24.69"/>
+    <line class="cls-5" x1="193.8" y1="24.69" x2="194.09" y2="24.69"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="125.91" y1="38.94" x2="126.2" y2="38.94"/>
+    <line class="cls-4" x1="126.77" y1="38.94" x2="193.8" y2="38.94"/>
+    <line class="cls-5" x1="193.8" y1="38.94" x2="194.09" y2="38.94"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="125.91" y1="54.26" x2="126.2" y2="54.26"/>
+    <line class="cls-4" x1="126.77" y1="54.26" x2="193.8" y2="54.26"/>
+    <line class="cls-5" x1="193.8" y1="54.26" x2="194.09" y2="54.26"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="125.91" y1="67.79" x2="126.2" y2="67.79"/>
+    <line class="cls-4" x1="126.77" y1="67.79" x2="193.8" y2="67.79"/>
+    <line class="cls-5" x1="193.8" y1="67.79" x2="194.09" y2="67.79"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="125.91" y1="81.4" x2="126.2" y2="81.4"/>
+    <line class="cls-4" x1="126.77" y1="81.4" x2="193.8" y2="81.4"/>
+    <line class="cls-5" x1="193.8" y1="81.4" x2="194.09" y2="81.4"/>
+  </g>
+  <path class="cls-3" d="M225.35,1.42v167.24H1.42V1.42h223.94M226.77,0H0v170.08h226.77V0h0Z"/>
+  <rect class="cls-5" x="65.91" y="115.79" width="9.7" height="9.7"/>
+  <rect class="cls-5" x="196.38" y="14.99" width="9.7" height="9.7"/>
+  <rect class="cls-5" x="65.91" y="129.98" width="9.7" height="9.7"/>
+</svg>
